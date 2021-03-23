@@ -20,3 +20,6 @@ Instructions to run the Code from scratch:
     ----To run Q-learning on wumpus with percepts, with epsilon-greedy approach----    
        The file to be excuted to run the algorithm and plot the reward v/s episode is qlearning_all_states.py. The qlearning-all_states.py
         and util.py should be in the same folder as the gym-wumpusworld folder.
+
+
+[![image alt text](https://www.youtube.com/watch?v=OdnHYFdTliI/0.jpg)](https://www.youtube.com/watch?v=OdnHYFdTliI)
