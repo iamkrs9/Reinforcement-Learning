@@ -22,4 +22,4 @@ Instructions to run the Code from scratch:
         and util.py should be in the same folder as the gym-wumpusworld folder.
 
 
-[![image alt text](https://www.youtube.com/watch?v=OdnHYFdTliI/0.jpg)](https://www.youtube.com/watch?v=OdnHYFdTliI)
+[![image alt text](https://github.com/iamkrs9/Reinforcement-Learning/blob/8dd4d8d07611ec5713d987f31dcf40d686abc0ae/YouTube%20video%20Screenshot.png)](https://www.youtube.com/watch?v=OdnHYFdTliI)
